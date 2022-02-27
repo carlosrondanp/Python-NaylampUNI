@@ -13,8 +13,9 @@
 ```Python
 import carlos as cr
 
-registro = {
-
+registro = { 'Nombres' : 'Carlos Rondan poma'
+             'Correo' : 'carlos.rondan.p@uni.pe'
+             'Teléfono': 988811993
 
 }
 
