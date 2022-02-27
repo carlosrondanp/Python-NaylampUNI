@@ -15,8 +15,8 @@ import carlos as cr
 
 registro = { 'Nombres' : 'Carlos Rondan poma'
              'Correo' : 'carlos.rondan.p@uni.pe'
+             'Linkedin' : 'carlosrondanp'
              'Teléfono': 988811993
-
 }
 
 ```
